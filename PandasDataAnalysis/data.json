@@ -1,0 +1,7 @@
+[
+    {"Name": "Alice", "Score": 88, "Date": "2022-01-01"},
+    {"Name": "Bob", "Score": 92, "Date": "invalid-date"},
+    {"Name": "Charlie", "Score": null, "Date": "2022-01-03"},
+    {"Name": null, "Score": 70, "Date": "2022-01-04"},
+    {"Name": "Eve", "Score": 85, "Date": "2022-01-05"}
+]

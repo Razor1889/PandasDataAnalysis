@@ -1,0 +1,6 @@
+Name,Score,Date
+Alice,88,2022-01-01
+Bob,92,invalid-date
+Charlie,,2022-01-03
+,70,2022-01-04
+Eve,85,2022-01-05
